@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me :
 
-I'm a beginner Developer <img src='https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif' width='20'> from 🇵🇱 Poland.
+I'm a beginner Developer <img src='https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif' width='20'> from 🇵🇱 Szachty, Poland.
 
 #### Interested:
 - 🍵 Tea (with lemon, mint, catmint, pepper, carnations, honey and with verious herps 🌿)
