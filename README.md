@@ -11,7 +11,7 @@
     <a href='https://www.linkedin.com/in/pan-krzysztof-91758a250/'>
       <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge'>
     </a>
-    <a href='https://discordapp.com/users/UserID/Pan%20Krzysztof#7075'>
+    <a href='https://discordapp.com/users/UserID/468822289920819200'>
       <img src='https://img.shields.io/badge/Discord-darkblue?logo=discord&logoColor=white&style=for-the-badge'>
     </a>
   </div>
