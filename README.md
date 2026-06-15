@@ -44,14 +44,14 @@ I usually do something from Python, but I like try new tools and technologies to
 <div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' title='python' width='40' height='40'>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg' title='linux' width='40' height='40'>&nbsp;
-  <img src='[https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg]' title='rust' width='40' height='40'>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg' title='rust' width='40' height='40'>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg' title='bash' width='40' height='40'>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg' title='django' width='40' height='40'>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg' title='docker' width='40' height='40'>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg' title='git' width='40' height='40'>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg' title='mongodb' width='40' height='40'>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg' title='graphql' width='40' height='40'>&nbsp;
-  <img src='[https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg]' title='mysql' width='40' height='40'>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' title='mysql' width='40' height='40'>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg' title='redis' width='40' height='40'>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg' title='figma' width='40' height='40'>&nbsp;
 </div>
